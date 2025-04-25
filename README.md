@@ -39,9 +39,9 @@ This repository contains a Python script implementing a statistical arbitrage pa
     ```
 3.  Execute the Python script:
     ```
-    python your_script_name.py
+    python main.py
     ```
-    (Replace `your_script_name.py` with the actual filename).
+    
 
 ## Performance Summary (Approx. 2015-05 to 2025-04)
 
